@@ -11,7 +11,7 @@ int main() {
     x = y = z = 4;
 
     int age = 2;
-    int months = 10;
+    int months = 6;
     int years = 22;
     int newage = age + years;
     printf("Print x:", x);
