@@ -6,7 +6,7 @@ int main() {
     int b = a;
     int c = b * 6;
     int d = 1 , e;
-    
+    // Change made here
     int x,y,z;
     x = y = z = 4;
 
