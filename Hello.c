@@ -12,4 +12,6 @@ int main() {
     int age = 2;
     int years = 22;
     int newage = age + years;
+
+    printf("This is your newage:", newage);
 }
